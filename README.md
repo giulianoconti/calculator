@@ -1,3 +1,3 @@
 # calculator
 
- https://giuliannt.github.io/calculator/
+https://giulianoconti.github.io/calculator/
